@@ -1,0 +1,1 @@
+Automatic Optimal Synthesis (AOS) for long-rang time-optimal planning. 
